@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://testdrive-now.github.io/sitemap.xml
+Sitemap: https://testdrive-now.github.io/info/sitemap.xml
